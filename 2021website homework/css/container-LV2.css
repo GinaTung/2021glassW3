@@ -1,0 +1,59 @@
+
+.menu-top{
+    background: #650300 ;
+    padding: 0 405px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu-top ul{
+    display: flex;
+}
+.menu-top ul li{
+    margin: 12px 48px 12px 0;
+}
+.menu-top ul li a{
+    font-size: 20px;
+    color: white;
+    font-family: Noto Sans;
+    text-decoration: none;
+}
+.blog{
+    padding: 0 405px;
+}
+.blog h1{
+    font-size: 48px;
+    margin:40px 0 60px 0;
+    padding-left: 16px;
+    font-family: 思源黑體 TW;
+    font-weight: bold;
+    border-left: 8px solid #650300;
+}
+.blog ul li{
+    display: flex;
+    margin-bottom: 60px;
+}
+.blog ul li img{
+    width: 635px;
+    height: 400px;
+}
+.active-first{
+    margin-left: 30px;
+}
+.active-first h2{
+    font-size: 32px;
+    color:#650300 ;
+    font-weight: bold;
+}
+.active-first span h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+.active-first p{
+    font-size: 20px;
+    color: #555555;
+}
+.active-first h4{
+    font-size: 36px;
+    color:#650300 ;
+    font-weight: bold;
+}
