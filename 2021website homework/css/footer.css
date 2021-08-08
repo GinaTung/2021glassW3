@@ -21,7 +21,7 @@
 }
 .footer-menu ul li a{
 	font-size: 16px;
-	font-family: 思源黑體 TW;
+	font-family: 'Noto Sans TC';
 	text-decoration: none;
     color: white;
 }
@@ -31,7 +31,7 @@
 }
 .footer-content p{
 	font-size: 32px;
-	font-family: Roboto;
+	font-family: 'Roboto';
 }
 .content-first{
     display: flex;

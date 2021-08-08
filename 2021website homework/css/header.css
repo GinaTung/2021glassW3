@@ -46,6 +46,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
 
 .wrap{
     margin:0 auto;
@@ -69,7 +70,7 @@ table {
 .menu ul li a{
 	color: white;
 	font-size: 20px;
-	font-family: 思源黑體 TW;
+	font-family: 'Noto Sans TC';
 	text-decoration: none;
 }
 .menu ul li a:hover{
